@@ -22,7 +22,7 @@
 - 📫 How to reach me: so0oh619@gmail.com
 ---
 <a href="https://github.com/ssh6lq">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh6lq&layout=compact" width="30%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh6lq&layout=compact" width="50%">
   </a>
 
 <!--
