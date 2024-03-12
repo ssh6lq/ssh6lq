@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=faf0e6&fontColor=4682b4&fontAlignY=55&height=135&section=header&text=Sohee's%20GitHub&fontSize=65&animation=fadeIn)
+<h2 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18546E&random=false&width=435&lines=HI!+There%F0%9F%98%8A" alt="Typing SVG" /></a>
+
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
