@@ -19,9 +19,9 @@
 </div>
 
 ---
-- 🔭 I'm a Software Engineer Interested in ML/DL
-- 🌱 I’m currently learning SQL, Kubernetes, Docker
-- 📫 How to reach me: so0oh619@gmail.com
+- 💁 I'm a Software Engineer Interested in ML/DL
+- ✏️ I’m currently learning SQL, Kubernetes, Docker
+- 📲 How to reach me: so0oh619@gmail.com
 ---
 
 <!--
