@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=aecf8c&fontColor=2e3b20&fontAlignY=55&height=135&section=header&text=Sohee's%20GitHub&fontSize=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=faf0e6&fontColor=4682b4&fontAlignY=55&height=135&section=header&text=Sohee's%20GitHub&fontSize=65&animation=fadeIn)
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -29,7 +29,7 @@
 -->
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=shadow-green" alt="GitHub Streak" width="52%/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=gruvbox-duo" alt="GitHub Streak" width="52%/></a>
   <a href="https://github.com/ssh6lq">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh6lq&layout=compact" width="44%">
   </a>
@@ -38,6 +38,7 @@
 
 <!--  
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=onedark-duo" alt="GitHub Streak" width="52%"/></a
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=shadow-green" alt="GitHub Streak" width="52%/></a>
 -->
 
 <!--
