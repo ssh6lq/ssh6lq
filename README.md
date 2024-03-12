@@ -29,13 +29,16 @@
 -->
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=onedark-duo" alt="GitHub Streak" width="52%"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=solarized-light" alt="GitHub Streak" width="52%/></a>
   <a href="https://github.com/ssh6lq">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh6lq&layout=compact" width="44%">
   </a>
 </details>
 
 
+<!--  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=onedark-duo" alt="GitHub Streak" width="52%"/></a
+-->
 
 <!--
 **ssh6lq/ssh6lq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
