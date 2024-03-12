@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Sohee's%20GitHub&fontSize=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=180&section=header&text=Sohee's%20GitHub&fontSize=65&animation=fadeIn)
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
