@@ -21,6 +21,11 @@
 - 🌱 I’m currently learning SQL, Kubernetes, Docker
 - 📫 How to reach me: so0oh619@gmail.com
 ---
+<a href="https://github.com/ssh6lq">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh6lq&layout=compact" width="48%">
+  </a>
+
+<!--
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=ayu-light" width="49%" alt="GitHub Streak" />
   </a>
@@ -28,6 +33,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh6lq&layout=compact" width="48%">
   </a>
 </details>
+-->
+
+
 <!--
 **ssh6lq/ssh6lq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
