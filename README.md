@@ -29,8 +29,7 @@
 -->
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=ayu-light" width="52%" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=onedark-duo" alt="GitHub Streak" width="52%"/></a>
   <a href="https://github.com/ssh6lq">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh6lq&layout=compact" width="44%">
   </a>
