@@ -31,9 +31,9 @@
 -->
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=shadow-blue" alt="GitHub Streak" width="45%//></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ssh6lq&theme=shadow-blue" alt="GitHub Streak" width="48%//></a>
   <a href="https://github.com/ssh6lq">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh6lq&layout=compact" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssh6lq&layout=compact" width="48%">
   </a>
 </details>
 
